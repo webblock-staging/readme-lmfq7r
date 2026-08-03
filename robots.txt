@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://webblock-staging.github.io/readme-lmfq7r/sitemap.xml
